@@ -1,4 +1,4 @@
-,ID,name,category,type,image,Damage,Accuracy,Range,Fire Rate,Mobility,Control,Radius,Duration
+,ID,name,category,type,image,Damage,Accuracy,Range,Fire Rate,Mobility,Control
 0,157,AGR 556,SMG,primary,images/primary/AGR 556.jpg,25,37,47,75,98,47,,
 1,9,AK-47,Assault,primary,images/primary/AK-47.jpg,33,67,58,55,74,44,,
 2,11,AK117,Assault,primary,images/primary/AK117.jpg,25,62,45,77,75,46,,
@@ -84,20 +84,3 @@
 82,192,Sickle,Sickle,secondary,NA,200,70,10,8,90,70,,
 83,221,Thumper,Launcher,secondary,NA,130,50,50,20,60,20,,
 84,201,Wrench,Wrench,secondary,NA,200,70,10,10,90,70,,
-85,167,Cluster Grenade,Lethal,throwable,NA,60,,,,,,70,
-86,124,Combat Axe,Lethal,throwable,images/throwable/Combat Axe.jpg,100,,,,,,35,
-87,42,Concussion Grenade,Tactical,throwable,images/throwable/Concussion Grenade.jpg,,,,,,,60,65
-88,48,Cryo Bomb,Tactical,throwable,images/throwable/Cryo Bomb.jpg,,,,,,,40,60
-89,43,EMP,Tactical,throwable,images/throwable/EMP.jpg,,,,,,,60,55
-90,218,Flash Drone,Tactical,throwable,NA,,,,,,,80,55
-91,41,Flashbang Grenade,Tactical,throwable,images/throwable/Flashbang Grenade.jpg,,,,,,,60,60
-92,37,Frag Grenade,Lethal,throwable,images/throwable/Frag Grenade.jpg,50,,,,,,50,
-93,173,Gas Grenade,Tactical,throwable,NA,,,,,,,70,30
-94,194,Heartbeat Sensor,Tactical,throwable,images/throwable/Heartbeat Sensor.jpg,,,,,,,60,100
-95,140,Molotov Cocktail,Lethal,throwable,images/throwable/Molotov Cocktail.jpg,60,,,,,,40,
-96,40,Smoke Grenade,Tactical,throwable,images/throwable/Smoke Grenade.jpg,,,,,,,65,75
-97,39,Sticky Grenade,Lethal,throwable,images/throwable/Sticky Grenade.jpg,60,,,,,,50,
-98,204,Storm Ball,Tactical,throwable,NA,,,,,,,60,70
-99,146,Thermite,Lethal,throwable,images/throwable/Thermite.jpg,40,,,,,,50,
-100,38,Trip Mine,Lethal,throwable,images/throwable/Trip Mine.jpg,65,,,,,,50,
-101,44,Trophy System,Tactical,throwable,images/throwable/Trophy System.jpg,,,,,,,40,60
